@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: newspost
 title: "Huong T Vu joins Thirumalai group at the UMD for a PhD"
 date: 2011-06-01
 ---
