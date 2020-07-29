@@ -3,4 +3,4 @@ layout: post
 title: "Huong receives a Student Research Achievement Award for her poster at the 59th Annual Meeting of the Biophysical Society."
 date: 2011-06-01
 ---
-Huong attends the Biophysical Society Meeting for the first time in Baltimore and enjoys every single moment of the meeting. She is so thankful for helps from her friends, colleagues and professors to make it happen. One of the trips that she will keep talking about for a very very long time. Even the sunset view out from the convention center on that day is unforgetable.
+Huong attends the Biophysical Society Meeting for the first time in Baltimore and enjoys every single moment of the meeting. She is so thankful for the helps she received from her friends, colleagues and professors to make it happen. One of the trips that she will keep talking about for a very very long time. Even the sunset view out from the convention center on that day is incredibly beautiful.
