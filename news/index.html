@@ -3,9 +3,9 @@ layout: default
 title: Huong T Vu's News
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<ul class="newsposts">
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% for newspost in site.newsposts %}
+	    <li><span>{{ newspost.date | date_to_string }}</span> » <a href="{{ newspost.url }}" title="{{ newspost.title }}">{{ newspost.title }}</a></li>
 	  {% endfor %}
 	</ul>
