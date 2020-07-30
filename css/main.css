@@ -40,5 +40,6 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: none;
+    list-style: none;  
+    line-height: 3.0em;
 }
