@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Huong's results in her PRL paper were reproduced by Kolomeisky"
+title: "Kolomeisky reproduces Huong's results in her PRL paper"
 date: 2018-10-23
 ---
 Huong's theoretical results in her PRL paper were reproduced by [Kolomeisky](https://scholar.google.com/citations?user=7RAFNNkAAAAJ&hl=en) and his coleague using a different method -- first-passage processes.  
